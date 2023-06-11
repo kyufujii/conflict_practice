@@ -1,4 +1,5 @@
-# hanage To pracdsdtice resolvidsdsng conflicts with Git and GitHub using pull requests, follow these steps:
+
+# hanage 　胸毛　Tdaso practice resolving conflicts with Git and GitHub using pull requests, follow these steps:
 
 ## Preparation
 
